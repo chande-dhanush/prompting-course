@@ -12,6 +12,8 @@ Attached in the folder are reference materials with **both detailed and summariz
 
 ---
 
+## If you want to learn prompt engineering on your own, follow the guide below to learn it. Use Chat GPT or relevant tools.
+
 ## 📝 MODULE 1: Introduction to Prompt Engineering
 **Objectives:**
 - Understand what prompt engineering is and why it matters for AI agents.
